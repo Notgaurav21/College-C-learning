@@ -1,2 +1,2 @@
 # College-C-learning
- I practiced this code while learning C language
+ I practiced these codes while learning C language
